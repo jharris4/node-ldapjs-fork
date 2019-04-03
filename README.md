@@ -43,7 +43,7 @@ client on your system:
 
 ## Installation
 
-    npm install ldapjs
+    npm install ldapjs-jh
 
 ## License
 
